@@ -5,10 +5,10 @@ from bs4 import BeautifulSoup
 import random 
 from time import sleep
 sleep (1)
-print ("\033[1;093mhttps://bestcash2020.com/OxCsW")
+print ("\033[1;093mhttps://bestcash2020.com/LajkVVg")
 sleep (1)
 Pas=input ("\033[1;092m》Enyer The Script Password  :  ")
-if Pas!="Abdullah0120":
+if Pas!="Abdullah3001":
     print ("\033[1;091mError Password ")
     exit()
 else:
