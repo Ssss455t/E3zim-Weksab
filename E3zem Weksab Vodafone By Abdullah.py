@@ -1,16 +1,17 @@
-import requests as rq,json,random
-from bs4 import BeautifulSoup as BS 
-import threading
-import requests 
-
-
-          # E3zem Weksab Vodafone #
-import sys,os
-import requests as rq 
-import requests,json,random,string
-from bs4 import BeautifulSoup
-import random 
-from time import sleep
+try:
+	import requests as rq,json,random
+	from bs4 import BeautifulSoup as BS 
+	import threading
+	import requests
+	import sys,os
+	import requests as rq 
+	import requests,json,random,string
+	from bs4 import BeautifulSoup
+	import random 
+	from time import sleep
+	
+except:
+	os.system ('pip install requests && pip install bs4 && pip install thread6 && pip install random')
 sleep (1)
 print ("\033[1;093mhttps://bestcash2020.com/wiTIM")
 sleep (1)
