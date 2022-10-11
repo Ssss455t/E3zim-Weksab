@@ -13,10 +13,10 @@ try:
 except:
 	os.system ('pip install requests && pip install bs4 && pip install thread6 && pip install random')
 sleep (1)
-print ("\033[1;093mhttps://bestcash2020.com/ceAFnCFl")
+print ("\033[1;093mhttps://bestcash2020.com/OxCsW")
 sleep (1)
 Pas=input ("\033[1;092m》Enter The Script Password  :  ")
-if Pas!="Abdullah7701":
+if Pas!="Abdullah0120":
     print ("\033[1;091mError Password ")
     exit()
 else:
