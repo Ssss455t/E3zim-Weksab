@@ -1,4 +1,4 @@
-try:
+'''try:
 	import requests as rq,json,random
 	from bs4 import BeautifulSoup as BS 
 	import threading
@@ -27,7 +27,7 @@ else:
 		sys.stdout.write (i)
 		sys.stdout.flush ()
 		sleep (0.08)
-	Form='''
+	Form=''
 \033[;091m×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 \033[1;092m# By : Abdullah Salah 
@@ -36,7 +36,7 @@ else:
 # Facebook : https://www.facebook.com/AbdullahSalah0099
 \033[;091m×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-'''
+''
 	print (Form)
 
 	number =input("\033[1;092m》 Enter Your Number : ")
@@ -176,7 +176,7 @@ if __name__=='__main__':
 					thread1.start()
 					thread.append(thread1)
 				for thread2 in thread:
-					thread2.join
+					thread2.join'''
 				
 			
 	
